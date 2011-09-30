@@ -1,0 +1,40 @@
+.clear {
+    clear: both;
+}
+.centered {
+    text-align: center;
+}
+.content {
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+.header {
+    text-align: center;
+}
+ 
+.powered_by_wrapper  {
+    width: 210px;
+    margin: 30px 0px;
+    font-family: "Lucida Grande", Helvetica, sans-serif;
+    text-align: left; 
+    margin-left: 460px;
+}
+
+.powered_by_wrapper {
+    text-decoration: none;
+}
+
+.loggly_logo {
+    margin-top: -60px;
+    float: right;
+    border: none;
+}
+table.bird_wrapper {
+    margin: 0 auto;
+    padding: 40px 0px;
+}
+.squawk {
+    cursor: pointer;
+    bottom: 0px;
+}
